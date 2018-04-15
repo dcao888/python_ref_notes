@@ -1,6 +1,0 @@
-import sys
-import os
-
-script_location = os.path.realpath(__file__)
-print(script_location)
-
